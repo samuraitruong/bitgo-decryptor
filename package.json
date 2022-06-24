@@ -1,0 +1,17 @@
+{
+  "name": "bitgo-decryptor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "samuraitruong@hotmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "@bitgo/sjcl": "^1.0.1",
+    "inquirer": "^9.0.0"
+  }
+}
