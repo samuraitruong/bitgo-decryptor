@@ -18,7 +18,7 @@ If the file is not existing you need to enter it into terminal console follow th
 
 ## Warning
 
-This script will decrypt your key using passcode on your local. The descryption dont by 3rd library , Use at your own risk. The privateKey and passcode will stay in your terminal history logs so please make sure you clean terminal after use
+This script will decrypt your key using passcode on your local. The descryption is handled by 3rd library. Use at your own risk. The privateKey and passcode will stay in your terminal history logs so please make sure you clean terminal after use
 
 ```
 clear
